@@ -692,3 +692,53 @@ inigo_montoya_half_life_3:
   media:
     inigo-hl3: inigo-hl3.png
 
+coof_reactions_on_new_users:
+  unfinished: true
+  title: "Coof Reactions on New Users"
+  depth: 5
+  description: ""
+  year: 2020
+
+covid_pepe_gif:
+  unfinished: true
+  title: "Covid Pepe Gif in the Corner of Streams"
+  depth: 4
+  description: ""
+  year: 2020
+  end_year: 2021
+
+jack_likes_feet:
+  unfinished: true
+  title: "Jack has a Foot Fetish"
+  depth: 1
+  description: ""
+  trivia:
+    - "and also allegedly gay"
+
+spyro:
+  unfinished: true
+  title: "uzalu and Spyro"
+  depth: 4
+  description: ""
+  trivia:
+    - "Elora is a tomboy (and a faun, you dork)"
+
+spyro_reignited_streams:
+  unfinished: true
+  depth: 4
+  description: "Some of uzalu's longest streams"
+
+doki_doki_streams:
+  unfinished: true
+  title: "uzalu Streams Doki Doki Literature Club"
+  depth: 4
+  description: ""
+  year: 2021
+  month: 3
+  day: 22
+  end_day: 29
+  links:
+    youtube:
+      - "https://www.youtube.com/watch?v=qGLmDVWWJlQ"
+      - "https://www.youtube.com/watch?v=qMJ1GiXLKHk"
+
