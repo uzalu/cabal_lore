@@ -614,3 +614,47 @@ female_autism_championships:
     motch_results: "/media/motch_autism_test.png"
     dai_results: "/media/20171210_124100.jpg"
 
+impromptu_misogynoff:
+  unfinished: true
+  title: "Impromptu Misogynoff"
+  depth: 2
+  description: "uhhh what the fuck 8bit... I guess you win again."
+  year: 2023
+  month: 9
+  day: 11
+  media:
+    dai_sexism_test: "dai_sexism_test.png"
+    8bit_sexism_test: "8bit_sexism_test.png"
+    motch_sexism_test: "motch_sexism_test.png"
+
+dai_official_feminist_of_cabal:
+  unfinished: true
+  title: "Dai is the Official Feminist of Cabal"
+  depth: 4
+  description: "She's only of the good ones... actually the only good one."
+  year: 2023
+  month: 9
+  day: 11
+  
+boomer_is_cabals_real_leader:
+  unfinished: true
+  apocryphal: true
+  title: "Boomer is Cabal's Real Leader"
+  depth: 8
+  description: ""
+
+baast_hard:
+  unfinished: true
+  title: "Baast Hard"
+  depth: 4
+  description: ""
+  year: 2018
+  media:
+    baast-and-spider-chan: "barst-and-spider-chan.jpg"
+
+rogal_has_a_clone:
+  unfinished: true
+  title: "Rogal has a Clone"
+  depth: 4
+  description: ""
+
