@@ -25,7 +25,8 @@ all_the_networks:
   month: 11
   day: 9
   links:
-    youtube: "https://www.youtube.com/watch?v=29N5UMO6o6c"
+    youtube:
+    - "https://www.youtube.com/watch?v=29N5UMO6o6c"
 
 kiki_farms:
   title: "Kiki Farms"
@@ -243,7 +244,8 @@ vee_refugees:
   depth: 5
   description: "Early into uzalu's YouTube channel, the sidekick of an old rival claimed that uzalu would never overtake his popularity. When uzalu did overtake his popularity, he uploaded a not-at-all-smug YouTube video celebrating (not gloating) this milestone. The number was about 6k, so that was the name of the video."
   links:
-    youtube: "https://www.youtube.com/watch?v=BDNXiSbBgyA"
+    youtube:
+    - "https://www.youtube.com/watch?v=BDNXiSbBgyA"
 
 cult_of_uzalu:
   title: "Cult of uzalu"
@@ -499,7 +501,8 @@ uzalu_first_vtuber:
   month: 6
   day: 28
   links:
-    odysee: "https://odysee.com/@uzalu:e/truth-and-reconciliation-%E2%99%A6-an-open:8"
+    odysee:
+    - "https://odysee.com/@uzalu:e/truth-and-reconciliation-%E2%99%A6-an-open:8"
 
 niggerfaggot_initiation_ritual:
   title: "NiggerFaggot Initiation Ritual"
@@ -538,7 +541,8 @@ uzalu_slays_ssr:
   month: 11
   day: 23
   links:
-    youtube: https://www.youtube.com/watch?v=VyAYLXzDlMc
+    youtube:
+    - "https://www.youtube.com/watch?v=VyAYLXzDlMc"
 
 ages_of_cabal:
   title: "Ages of Cabal"
@@ -739,6 +743,6 @@ doki_doki_streams:
   end_day: 29
   links:
     youtube:
-      - "https://www.youtube.com/watch?v=qGLmDVWWJlQ"
-      - "https://www.youtube.com/watch?v=qMJ1GiXLKHk"
+    - "https://www.youtube.com/watch?v=qGLmDVWWJlQ"
+    - "https://www.youtube.com/watch?v=qMJ1GiXLKHk"
 
