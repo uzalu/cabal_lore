@@ -673,3 +673,22 @@ dai_doesnt_use_sex_toys:
   month: 9
   day: 11
 
+pirate_voice:
+  unfinished: true
+  title: "Pirate Voice"
+  depth: 3
+  description: "uzalu can do a pirate voice."
+
+inigo_montoya_half_life_3:
+  unfinished: true
+  title: "Inigo Montoya, Two Ghost Peppers, Half Life 3"
+  depth: 7
+  description: ""
+  trivia:
+    - "Two Scoops, Two Terms, Two Peppers."
+    - "Coatrack named him 'Pepper Coward'."
+  year: 2017
+  end_year: 
+  media:
+    inigo-hl3: inigo-hl3.png
+
