@@ -540,3 +540,38 @@ uzalu_slays_ssr:
   links:
     youtube: https://www.youtube.com/watch?v=VyAYLXzDlMc
 
+ages_of_cabal:
+  title: "Ages of Cabal"
+  depth: 1
+  description: "Cabal's history can be clearly divided into 3 ages, and each has a clear hierarchy of quality. From 2016 to 2017 was the Silver Age, from 2018 to 2019 was the Bronze Age, and 2020 onwards is the Golden Age."
+
+dakka:
+  unfinished: true
+  title: "Dakka"
+  depth: 1
+  description: "One of Cabal's longest current members. Joined on Election Night 2016 because uzalu had a public voice channel on stream."
+  year: 2016
+  ongoing: true
+
+eliza_still_a_moderator:
+  apocryphal: true
+  title: "Eliza is still a moderator"
+  depth: 8
+  description: "Eliza was banned from Cabal in roughly 2018, but the notion that Eliza is still not only a member, but actually still a moderator, is sure to terrify anyone who remembers those days."
+  description_apocryphal: "shhh... don't tell Dai... she's still a moderator."
+
+eliza_only_real_woman:
+  unfinished: true
+  apocryphal: true
+  title: "Eliza was the only real woman ever in Cabal."
+  depth: 7
+  description: ""
+
+uzalu_holds_aloft_the_bussy:
+  unfinished: true
+  title: "uzalu Holds Aloft the Bussy"
+  depth: 7
+  description: ""
+  media:
+    - "/media/Ross_eliza_uzalu.png"
+    - "/media/20171210_124100.jpg"
