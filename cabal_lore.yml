@@ -658,3 +658,18 @@ rogal_has_a_clone:
   depth: 4
   description: ""
 
+cabal_book_of_genesis:
+  unfinished: true
+  apocryphal: true
+  title: "Cabal is referenced 16 times in the book of Genesis"
+  depth: 10
+  description: ""
+
+dai_doesnt_use_sex_toys:
+  title: "Dai Doesn't use Sex Toys"
+  depth: 6
+  description: "Dai admitted this on stream, despite the obvious vibrator sound in the background."
+  year: 2023
+  month: 9
+  day: 11
+
