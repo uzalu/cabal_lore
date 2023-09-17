@@ -715,9 +715,10 @@ jack_likes_feet:
   unfinished: true
   title: "Jack has a Foot Fetish"
   depth: 1
-  description: ""
+  description: "Jack admitted to having a Foot Fetish."
   trivia:
-    - "and also allegedly gay"
+    - "also he's allegedly gay"
+  todo: "look up the date this was learned"
 
 spyro:
   unfinished: true
@@ -731,6 +732,7 @@ spyro_reignited_streams:
   unfinished: true
   depth: 4
   description: "Some of uzalu's longest streams"
+  todo: "The streams were removed from uzalu's main channel, and need to be reuploaded elsewhere."
 
 doki_doki_streams:
   unfinished: true
@@ -746,3 +748,79 @@ doki_doki_streams:
     - "https://www.youtube.com/watch?v=qGLmDVWWJlQ"
     - "https://www.youtube.com/watch?v=qMJ1GiXLKHk"
 
+uzabot_temple_os:
+  unfinished: true
+  apocryphal: true
+  title: "uzabot is written in Holy-C, and runs on TempleOS"
+  depth: 10
+  description: ""
+
+aydin_raid:
+  unfinished: true
+  title: "Aydin Raid (Raidin' Paladin)"
+  depth: 4
+  description: ""
+  year: 2021
+  month: 10
+  day: 27
+  media:
+    aydin_raid: "/media/aydin_raid.png"
+
+factions:
+  unfinished: true
+  title: "Factions System"
+  depth: 6
+  description: ""
+  year: 2017
+  media:
+    factions_social_experiment: "/media/factions_social_experiment.png"
+    cabal-factions-info: "/media/cabal-factions-info.png"
+
+cabal_navy:
+  unfinished: true
+  title: "Cabal Navy"
+  depth: 7
+  description: "A Magical conversation with Conway, which involved building an actual Cabal navy. It also included Kiki's boat, and a floating Cabal compound."
+  year: 2020
+
+calroins:
+  unfinished: true
+  title: "Calroins"
+  depth: 3
+  description: ""
+  trivia:
+  - "Wants to be reintegrated into the British Empire."
+  - "Cannot Art"
+  - "Dislikes AI Art"
+  - "Stop stop"
+  - "Starred in / directed gay porn"
+
+outreach_invite_flood:
+  unfinished: true
+  title: "Outreach's Invite Flood"
+  depth: 6
+  description: "It turns out if you make 10,000 invites in a Discord server, new invites can't be made. Outreach used this on more than one server."
+
+calroins_email_system:
+  unfinished: true
+  title: "Calroins Email System"
+  depth: 4
+  description: "Moo acquired 'calroins.com' and set up an email server. If you email nigger@calroins.com, he receives it."
+
+console_hitler:
+  unfinished: true
+  title: "Console Hitler"
+  depth: 5
+  description: "Karl Childers worked at Microsoft, managing XBox, and claimed to have banned 7 million consoles. He blocked ArcaneCoder during an argument in which he also deleted messages in the mod-abuse reporting channel, and in response, AC indexed his console-banning claim in the meme system as 'console hitler'. Karl was not very happy with being called hitler, and started spamming until he got banned."
+
+nigger_brick_merchants:
+  title: "Nigger Brick Merchants"
+  depth: 5
+  description: "Some indians emailed Moo's Calroins email server, offering Search Enginer Optimisation services. A long and detailed narrative of Outreach's Brick company, 'Nigger Brick Merchants', based in Chiraq, began. Rogal played 'Mike Hawk', Communications Director. A common greeting for Ankur, the indian, was 'Hello my lovely nigger.'. Ankur is very Indian. The meme eventually died because it was determined that the SEO Indians were not actually scammers, just incompetent. The Indians never realised any of this was a joke."
+  trivia:
+  - "Rogal doesn't know what SEO is."
+  - "Tyrone Floyd is the CEO of Nigger Brick Merchants. Born in the southside of Chiraq. He and Mike Hawk did a drive by on Illinois Brick to create a gang war between them and the Mortar Midgets."
+  - "Barry Daquanston"
+  - "An offer to pay for SEO services was given, but the amount was sadly in about 10 different random currencies, including some crypto coins."
+  year: 2021
+  end_year: 2022
