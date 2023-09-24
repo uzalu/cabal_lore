@@ -907,3 +907,9 @@ weeb_autonomous_zone:
   depth: 9
   description: "Bright refuses to tell us."
 
+shadow_rose_meme_stock_crash:
+  unfinished: true
+  title: "Shadow Rose's Meme Stock Crash"
+  depth: 7
+  description: ""
+  year: 2020
