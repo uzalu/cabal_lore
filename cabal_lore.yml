@@ -837,6 +837,8 @@ warmonger:
   title: "Warmonger"
   depth: 5
   description: "Part of the Cesspool Civil War arc. Following losing the war, he spent about two hours screaming at the top of his voice in a call because his furry safe-space got taken away. This shouting may have led to his parents (and neighbours) becoming aware that he's a gay furry. Apparently someone was called to his door to check he was 'alright'. It was later discovered that Warmonger was not 18 so shouldn't have been in cesspool anyway."
+  trivia:
+  - "Says he's gay BECAUSE he hates women"
   year: 2020
 
 original_meme_system:
@@ -913,3 +915,69 @@ shadow_rose_meme_stock_crash:
   depth: 7
   description: ""
   year: 2020
+
+meme_economy:
+  title: "Meme Economy"
+  depth: 7
+  description: "A proposal for a meme-based stock trading system in Cabal."
+  year: 2020
+
+antifem:
+  title: "JFC's 'antifem' emoji"
+  depth: 8
+  description: "JFC is a Cabal member who appears to be an unironic male supremacist, and would often react negatively to women, usually with the :antifem: emoji."
+  year: 2020
+
+ratrinogal_podcast:
+  title: "Ratrinogal Podcast"
+  depth: 3
+  description: "A prospective podcast starring Atrinoch and Rogal."
+  year: 2023
+
+3d_paint:
+  title: "Rogal always uses 3D Paint"
+  depth: 4
+  description: "Rogal ALWAYS uses 3D Paint."
+
+rogal_chadzalu:
+  title: "Rogal Chadzalu"
+  depth: 5
+  description: "When Rogal first joined Cabal, he wasn't 'Rogal', he became that when Dakka created a face-merge of Rogal Dorn (from Warhammer 40k) and uzalu. This began a series of Rogal-uzalu themed profiles for Rogal."
+  year: 2020
+  media:
+    rogal_uzalu: "/media/rogal_uzalu.jpg"
+    yes: "/media/yes_recreation.png"
+
+wizard_battles:
+  unfinished: true
+  title: "Wizard Battles"
+  depth: 4
+  description: "uzalu created a PvP-focused RP system for simulating wizard battles. Several people created Wizards, including Verdant, Bright, Ginger and Rogal. Rogal made a spell which sent a ball to hunt down a child, attach to the child, and then launch at the enemy."
+
+boku_girl_rogal:
+  title: "Rogal likes Boku Girl"
+  depth: 7
+  description: "Rogal is gay, because his favourite '''tomboy''' is male."
+  trivia:
+    - "Rogal accepts that this is 50% gay."
+
+cabdrer:
+  unfinished: true
+  title: "CABDRER"
+  media:
+    cabdrer: "/media/cabdrer.png"
+
+lady_dai_raid:
+  unfinished: true
+  title: "Lady Dai Raid on Wes' Server"
+  depth: 7
+  description: ""
+  media:
+    justicefordai: "/media/justicefordai.png"
+
+unholy_love_polygon:
+  title: "The Unholy Love Polygon"
+  depth: 2
+  description: "The bush of alleged and totally real love connections between a set of Cabal members. It includes uzalu, motch, atrinoch, sally, rogal, dai and 8bitpicky."
+  year: 2023
+
