@@ -980,4 +980,31 @@ unholy_love_polygon:
   depth: 2
   description: "The bush of alleged and totally real love connections between a set of Cabal members. It includes uzalu, motch, atrinoch, sally, rogal, dai and 8bitpicky."
   year: 2023
+  media:
+    love_polygon: "/media/love_polygon.png"
+
+conway_zenman_fleeing_nazis:
+  unfinished: true
+  title: "Conway and ZenMan are descendents of fleeing Nazis"
+
+conway_left_cabal:
+  unfinished: true
+  title: "Conway Left Cabal"
+  depth: 5
+  description: ""
+  media:
+    conway_leaves: "/media/conway_leaves.png"
+
+jack_curse:
+  title: "The Jack Curse"
+  depth: 2
+  description: "Every Jack who joins Cabal is a curse upon it. Eliza was a Jack, Horse-fucker Jack was a Jack, Falco is a Jack, and Foot-Jack is a Jack."
+
+doc_allegedly_aoc_lust:
+  unfinished: true
+  title: ""
+
+women_tsundere:
+  unfinished: true
+  title: "All Women in Cabal are Tsundere"
 
