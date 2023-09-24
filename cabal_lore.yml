@@ -480,7 +480,7 @@ isis_is_looking_for_chase:
   apocryphal: true
   title: "ISIS is looking for Chase"
   depth: 5
-  description: "Chase lives in the middle east, and doesn't always 100% in accordance with the dictats of Islamic morality (see his huniepop streams for more info). It has been suggested that ISIS is pursuing him for religious 'correction' purposes."
+  description: "Chase lives in the middle east, and doesn't always act 100% in accordance with the dictats of Islamic morality (see his huniepop streams for more info). It has been suggested that ISIS is pursuing him for religious 'correction' purposes."
   description_apocryphal: "ISIS is pursuing Chase for religious 'correction' purposes."
 
 usb_stick_election_stream:
@@ -507,11 +507,12 @@ uzalu_first_vtuber:
 niggerfaggot_initiation_ritual:
   title: "NiggerFaggot Initiation Ritual"
   depth: 1
-  description: "An optional test for new users, intended to potentially challenge federal agents who may not be allowed to say such things, this ritual demands that a user simply enter voice, and say \"niggerfaggot\". The test is not, and never will be, mandatory."
+  description: "An optional test for new users, intended to potentially challenge federal agents who may not be allowed to say such things, this ritual demands that a user simply enter voice, and say \"niggerfaggot\" in view of others. The test is not, and never will be, mandatory."
   year: 2021
   ongoing: true
 
 karpo_is_technically_a_carp_merchant:
+  unfinished: true # index the image of the contract
   title: "Karpo is an actual carp merchant, and has an open contract with uzalu"
   depth: 8
   description: "In order to make Karpo technically a carp merchant, uzalu purchased one penny worth of stocks in carp anus from Karpo. The contract still holds to this day."
@@ -627,15 +628,15 @@ impromptu_misogynoff:
   month: 9
   day: 11
   media:
-    dai_sexism_test: "dai_sexism_test.png"
-    8bit_sexism_test: "8bit_sexism_test.png"
-    motch_sexism_test: "motch_sexism_test.png"
+    dai_sexism_test: "/media/dai_sexism_test.png"
+    8bit_sexism_test: "/media/8bit_sexism_test.png"
+    motch_sexism_test: "/media/motch_sexism_test.png"
 
 dai_official_feminist_of_cabal:
   unfinished: true
   title: "Dai is the Official Feminist of Cabal"
   depth: 4
-  description: "She's only of the good ones... actually the only good one."
+  description: "She's one of the good ones... actually the only good one."
   year: 2023
   month: 9
   day: 11
@@ -787,7 +788,7 @@ calroins:
   unfinished: true
   title: "Calroins"
   depth: 3
-  description: "A Cabal lolcow, terrible artist, careless dyslexic, and traitor to Cabal. Confirmed as an Australian twink who wants the British Empire to dominate him. Capriciously censorious, utterly incompetent, and a repeated valid target."
+  description: "A Cabal lolcow, terrible artist, careless dyslexic, capricious censor, and traitor to Cabal. Confirmed as an Australian twink who wants the British Empire to dominate him. A valid target for trolling."
   trivia:
   - "Wants to be reintegrated into the British Empire."
   - "Cannot Art"
@@ -817,7 +818,7 @@ console_hitler:
 nigger_brick_merchants:
   title: "Nigger Brick Merchants"
   depth: 5
-  description: "Some indians emailed Moo's Calroins email server, offering Search Enginer Optimisation services. A long and detailed narrative of Outreach's Brick company, 'Nigger Brick Merchants', based in Chiraq, began. Rogal played 'Mike Hawk', Communications Director. A common greeting for Ankur, the indian, was 'Hello my lovely nigger.'. Ankur is very Indian. The meme eventually died because it was determined that the SEO Indians were not actually scammers, just incompetent. The Indians never realised any of this was a joke."
+  description: "Some indians emailed Moo's Calroins email server, offering Search Engine Optimisation services. A long and detailed narrative of Outreach's Brick company, 'Nigger Brick Merchants', based in Chiraq, began. Rogal played 'Mike Hawk', Communications Director. A common greeting for Ankur, the indian, was 'Hello my lovely nigger.'. Ankur is very Indian. The meme eventually died because it was determined that the SEO Indians were not actually scammers, just incompetent. The Indians never realised any of this was a joke."
   trivia:
   - "Rogal doesn't know what SEO is."
   - "Tyrone Floyd is the CEO of Nigger Brick Merchants. Born in the southside of Chiraq. He and Mike Hawk did a drive by on Illinois Brick to create a gang war between them and the Mortar Midgets."
@@ -837,3 +838,72 @@ warmonger:
   depth: 5
   description: "Part of the Cesspool Civil War arc. Following losing the war, he spent about two hours screaming at the top of his voice in a call because his furry safe-space got taken away. This shouting may have led to his parents (and neighbours) becoming aware that he's a gay furry. Apparently someone was called to his door to check he was 'alright'. It was later discovered that Warmonger was not 18 so shouldn't have been in cesspool anyway."
   year: 2020
+
+original_meme_system:
+  title: "Original Meme System"
+  depth: 4
+  description: "In the original Cabal Discord server, uzalu had some code to host user-submitted memes under certain labels, which could be called with '=meme'. Later, Zane wrote a copy of this bot, and that is still in use today."
+  trivia:
+    - "An archive of the memes still exists, in Outreach's possession."
+  year: 2020
+  end_year: 2021
+  end_month: 12
+
+bendyjeb:
+  title: "BendyJeb"
+  depth: 4
+  description: "An animation of Jeb Bush swaying from left to right during his 2016 election campaign became popular in Cabal, particularly due to Wes' hatred of Jeb."
+  year: 2020
+  media:
+    bendyjeb: "/media/bendyjeb.gif"
+
+spiral_deletion:
+  apocryphal: true
+  title: "Spiral will be deleted soon"
+  depth: 2
+  description: "uzalu keeps trolling fans of Spiral that it will be deleted."
+  description_apocryphal: "There are confirmed plans to delete the Spiral channel soon, as of 2023/09/24. All are in favour of this."
+
+cabal_in_sfos_router:
+  title: "Cabal is in SFO's Router"
+  depth: 3
+  description: "SFO pinged his Discord server when he noticed his home-hosted Minecraft server was down. Cabal noticed this ping, and while SFO was trying in vain to find and fix the problem (during his stream), Cabal was Prevailing itself all over his server, thus implying that we were the ones who broke his Mineraft Server (again). The problem, as predicted by uzalu and others, turned out to be that his router's port-forwarding rules got deleted mysteriously. It is widely believed that SFO used his usual indomitable powers of bewildering incompetence to make them disappear. Due to our presence, he tried to blame Cabal for hacking his router. We are literally living rent-free in his router. Several noble Cabal members were purged from SFO's server for their service."
+  description_apocryphal: "We are literally living rent-free in SFO's router, disabling his port-forwarding when we feel like it."
+  year: 2023
+  month: 8
+  day: 17
+  media:
+    sfo_router: "/media/sfo_router.png"
+    sfo_router: "/media/sfo_router2.png"
+
+dpwiki_autism siege:
+  unfinished: true
+  title: "DP Wiki Autism Siege"
+  depth: 8
+  description: ""
+  year: 2015
+
+wizards_in_space_b_team:
+  unfinished: true
+  title: "Wizards in Space B Team"
+  depth: 4
+  description: "Another Star-Trek style RP run by uzalu, starring Wes as the captain of the USS Crusader. Also starring Marsh, Karl Childers, and Kiki."
+  year: 2020
+  month: 9
+  day: 27
+
+wizards_in_space_c_team:
+  unfinished: true
+  title: "Wizards in Space C Team"
+  depth: 5
+  description: "Another Star-Trek style RP run by uzalu, starring NotSoObvious as the captain of an Excelsior-class ship. Also starring 8bitpicky, Chase, and Isaiah."
+  year: 2022
+  month: 5
+  day: 7
+
+weeb_autonomous_zone:
+  unfinished: true
+  title: "Weeb Autonomous Zone"
+  depth: 9
+  description: "Bright refuses to tell us."
+
